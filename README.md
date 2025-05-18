@@ -7,10 +7,11 @@ Ele escuta o que a pessoa está sentindo, identifica sua emoção e responde com
 **Features:**
 * Detecta emoções nas mensagens (tristeza, ansiedade, raiva, etc.)
 * Responde com empatia usando IA generativa
-* Sugere vídeos do YouTube para relaxamento emocional
+* Sugere vídeos do YouTube para discernimento ou relaxamento emocional
 
 **Impacto:**
-
+Milhões de pessoas ao redor do mundo sofrem com depressão e transtornos emocionais — doenças silenciosas que muitas vezes passam despercebidas e sem o apoio necessário. 
+Esta aplicação oferece um agente terapêutico com IA que atua como um primeiro socorro emocional, proporcionando acolhimento imediato e acessível a quem precisa. É importante salientar que esta aplicação não dispensa de forma nenhuma a atuação de um profissional capacitado.
 
 ### ▶️ Demonstração
 Utilização por uma criança/adolescente
